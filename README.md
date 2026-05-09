@@ -2,4 +2,4 @@ This is the MATLAB Simulation for calculation of Economic Scheduling of Units af
 
 Here, both cases that is; With & Without Losses are considered along with the Max & Min limits of each Unit.
 
-Edit the
+Edit the data Matrix and enter your details if the Units and run the program to get your desired Results.
